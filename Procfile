@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run churn-app.py
+web: sh setup.sh && streamlit run different-diseases-app.py
